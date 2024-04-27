@@ -4,6 +4,8 @@ A streamlit template for mapping applications. It can be deployed to [Streamlit 
 
 Web App URL: <https://map-template.streamlit.app>
 
+Reprository URL: <https://github.com/3bdillahiomar/map-tempelate>
+
 ## Instructions
 
 1. For the GitHub repository or use it as a template for your own project.
